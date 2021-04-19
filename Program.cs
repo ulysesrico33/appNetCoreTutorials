@@ -12,12 +12,17 @@ namespace appNetCoreTutorials
 
             // Create a task and supply a user delegate by using a lambda expression.
             Task taskA = new Task( () => Console.WriteLine("Hello from taskA."));
+            Task taskB= new Task(()=>
+
+                 Console.WriteLine("Hello from taskB.")
+    
+            );
             // Start the task.
             taskA.Start();
 
              // Output a message from the calling thread.
              Console.WriteLine("Hello from thread '{0}'.",Thread.CurrentThread.Name);
-               taskA.Wait();
+            taskA.Wait();
         }
     }
 }
