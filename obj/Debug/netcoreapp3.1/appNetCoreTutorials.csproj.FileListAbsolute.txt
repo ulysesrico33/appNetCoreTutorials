@@ -1,0 +1,13 @@
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.exe
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.deps.json
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.runtimeconfig.json
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.runtimeconfig.dev.json
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.dll
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.pdb
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.csprojAssemblyReference.cache
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.AssemblyInfoInputs.cache
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.AssemblyInfo.cs
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.csproj.CoreCompileInputs.cache
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.dll
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.pdb
+C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.genruntimeconfig.cache
