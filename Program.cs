@@ -11,12 +11,27 @@ namespace appNetCoreTutorials
 
            Thread.CurrentThread.Name = "Main";
 
+            Action action = () =>
+                                {
+                                   for(int x=0;x<=300;x++)
+                                   {
+                                       Task.Delay(50);
+                                       Console.WriteLine(x);
+
+                                   }
+                                   
+                                };
             // Create a task and supply a user delegate by using a lambda expression.
             Task taskA = new Task( () => Console.WriteLine("Hello from taskA."));
-            Task taskB= new Task(()=>Console.WriteLine("Hello from taskB."));
+            Task taskB= new Task(action);
+            taskB.Start();
+            
+            
+            taskA.Start();
+            
             // Start the task.
 
-            await Task.WhenAll(taskA,taskB);
+            await Task.WhenAny(taskA,taskB);
             Console.WriteLine("All done");
             
             
