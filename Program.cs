@@ -6,7 +6,7 @@ namespace appNetCoreTutorials
 {
     class Program
     {
-        public static void Main()
+        public static async Task Main()
         {
 
            Thread.CurrentThread.Name = "Main";
@@ -15,14 +15,24 @@ namespace appNetCoreTutorials
             Task taskA = new Task( () => Console.WriteLine("Hello from taskA."));
             Task taskB= new Task(()=>Console.WriteLine("Hello from taskB."));
             // Start the task.
-            taskA.Start();
-            taskB.Start();
 
-            // Output a message from the calling thread.
+            await Task.WhenAll(taskA,taskB);
+            Console.WriteLine("All done");
             
-            Console.WriteLine(taskA.Status);
+            
         }
 
-        Action task1=>(Console.WriteLine('Hello'));
+      
+    }
+
+    class Program1
+    {
+        public static void Main()
+        {
+            Console.WriteLine("I am Program 1");
+
+        }
+
+
     }
 }
