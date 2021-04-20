@@ -11,3 +11,16 @@ C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcorea
 C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.dll
 C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.pdb
 C:\Users\1098350515\Documents\gitPersonal\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.genruntimeconfig.cache
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.exe
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.deps.json
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.runtimeconfig.json
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.runtimeconfig.dev.json
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.dll
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\bin\Debug\netcoreapp3.1\appNetCoreTutorials.pdb
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.csprojAssemblyReference.cache
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.AssemblyInfoInputs.cache
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.AssemblyInfo.cs
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.csproj.CoreCompileInputs.cache
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.dll
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.pdb
+C:\Users\ulyse\Documents\git\appNetCoreTutorials\obj\Debug\netcoreapp3.1\appNetCoreTutorials.genruntimeconfig.cache

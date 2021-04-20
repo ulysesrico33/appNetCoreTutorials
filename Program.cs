@@ -9,7 +9,18 @@ namespace appNetCoreTutorials
         public static async Task Main()
         {
 
-           Thread.CurrentThread.Name = "Main";
+            // Create a task and supply a user delegate by using a lambda expression.
+            Task taskA = new Task( () => Console.WriteLine("Hello from taskA."));
+            taskA.Start();
+            getCountOfNumber();
+            
+            Console.WriteLine("All done");
+            
+            
+        }
+
+        public static void getCountOfNumber()
+        {
 
             Action action = () =>
                                 {
@@ -21,33 +32,18 @@ namespace appNetCoreTutorials
                                    }
                                    
                                 };
-            // Create a task and supply a user delegate by using a lambda expression.
-            Task taskA = new Task( () => Console.WriteLine("Hello from taskA."));
-            Task taskB= new Task(action);
-            taskB.Start();
-            
-            
-            taskA.Start();
-            
-            // Start the task.
 
-            await Task.WhenAny(taskA,taskB);
-            Console.WriteLine("All done");
-            
-            
+            Task task= new Task(action);   
+
+            task.Start();                
+
+
+
+
         }
 
       
     }
 
-    class Program1
-    {
-        public static void Main()
-        {
-            Console.WriteLine("I am Program 1");
 
-        }
-
-
-    }
 }

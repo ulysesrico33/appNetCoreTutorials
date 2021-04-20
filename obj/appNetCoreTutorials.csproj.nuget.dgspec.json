@@ -1,29 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1098350515\\Documents\\gitPersonal\\appNetCoreTutorials\\appNetCoreTutorials.csproj": {}
+    "C:\\Users\\ulyse\\Documents\\git\\appNetCoreTutorials\\appNetCoreTutorials.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1098350515\\Documents\\gitPersonal\\appNetCoreTutorials\\appNetCoreTutorials.csproj": {
+    "C:\\Users\\ulyse\\Documents\\git\\appNetCoreTutorials\\appNetCoreTutorials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1098350515\\Documents\\gitPersonal\\appNetCoreTutorials\\appNetCoreTutorials.csproj",
+        "projectUniqueName": "C:\\Users\\ulyse\\Documents\\git\\appNetCoreTutorials\\appNetCoreTutorials.csproj",
         "projectName": "appNetCoreTutorials",
-        "projectPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\appNetCoreTutorials\\appNetCoreTutorials.csproj",
-        "packagesPath": "C:\\Users\\1098350515\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\appNetCoreTutorials\\obj\\",
+        "projectPath": "C:\\Users\\ulyse\\Documents\\git\\appNetCoreTutorials\\appNetCoreTutorials.csproj",
+        "packagesPath": "C:\\Users\\ulyse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ulyse\\Documents\\git\\appNetCoreTutorials\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\1098350515\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ulyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
